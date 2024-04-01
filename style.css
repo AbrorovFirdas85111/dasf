@@ -1,0 +1,61 @@
+.ichiga{
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.box{
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box1{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box2{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box3{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box4{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box5{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
+.box6{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    color: white;
+}
